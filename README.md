@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IlyaBurch
-- 👀 I’m interested in Python, photo, musiz (jazz and metal especially)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some backend oriented projects
-- 📫 How to reach me ilyaburch@yandex.ru
+- 👀 I’m interested in frontend, photo, musiz (jazz and metal especially)
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on some frontend oriented projects
+- 📫 How to reach me ilya@burchalin.ru
 
 <!---
 IlyaBurch/IlyaBurch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
