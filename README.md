@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlyaBurch
-- 👀 I’m interested in frontend, photo, musiz (jazz and metal especially)
+- 👀 I’m interested in frontend, photo, musiс (jazz and metal especially)
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on some frontend oriented projects
 - 📫 How to reach me ilya@burchalin.ru
