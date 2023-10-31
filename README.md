@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IlyaBurch
-- 👀 I’m interested in frontend, photo, musiс (jazz and metal especially)
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👋 Hi, I’m Ilya Burchalin
+- 👀 I’m interested in frontend, D&D, musiс (jazz and metal especially)
+- 🌱 I’m currently learning Vue 3
 - 💞️ I’m looking to collaborate on some frontend oriented projects
 - 📫 How to reach me ilya@burchalin.ru
 
