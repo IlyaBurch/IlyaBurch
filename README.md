@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ilyaburch@yandex.ru**
 
-- ⚡ Fun fact **I love vinyl, beer and D&D**
+- ⚡ I love vinyl, beer and D&D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
