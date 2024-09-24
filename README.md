@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya Burchalin</h1>
 <h3 align="center">Frontend developer from Moscow, Russia</h3>
 
-- 🔭 I’m currently working on [IMSOUND](https://github.com/IlyaBurch/imsound-nuxt)
+- 🔭 I’m currently working in [GoodWAN](https://goodwan.ru/)
 
 - 🌱 I’m currently learning **Vue3/Nuxt**
 
