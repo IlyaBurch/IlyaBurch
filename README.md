@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilya Burchalin</h1>
 <h3 align="center">Frontend developer from Moscow, Russia</h3>
 
-- 🔭 I’m currently working in [GoodWAN](https://goodwan.ru/)
+- 🔭 I’m currently working in [Lofty](https://lofty.today/)
 
-- 🌱 I’m currently learning **Vue3/Nuxt**
+- 🌱 Main stack: **Vue3/Nuxt + TS**
 
 - 👯 I’m looking to collaborate on [VtM 5e chatsheet](https://github.com/IlyaBurch/VtM5e-charsheet)
 
